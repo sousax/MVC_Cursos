@@ -1,0 +1,8 @@
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\bin\Debug\3_Cursos_MVC.exe.config
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\bin\Debug\3_Cursos_MVC.exe
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\bin\Debug\3_Cursos_MVC.pdb
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\obj\Debug\MVC_Cursos.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\obj\Debug\MVC_Cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\obj\Debug\MVC_Cursos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\obj\Debug\3_Cursos_MVC.exe
+C:\Users\eduar\source\repos\IFSP_4_EDD2\MVC_Cursos\obj\Debug\3_Cursos_MVC.pdb
